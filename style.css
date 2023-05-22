@@ -1,0 +1,16 @@
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.left {
+    text-align: left;
+}
+
+.Mtop {
+    margin-top: -90px;
+}
+
+#p1,#p2,#p3,#p4,#p5{
+    max-width: 200px;
+}
